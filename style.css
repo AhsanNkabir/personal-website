@@ -90,6 +90,9 @@ section{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+.lastestwork-area h2:hover{
+    color:deepskyblue;
+}
 .work-image img{
     width:100%;
 }
@@ -98,6 +101,9 @@ section{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+}
+.client-review h2:hover{
+    color:rgb(255, 0, 191);
 }
 
 .client-contact{
