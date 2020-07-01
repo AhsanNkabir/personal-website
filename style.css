@@ -10,6 +10,9 @@ h2{
     font-size: 28px;
     margin: 0px;
 }
+.middle-width h2:hover{
+    color:deepskyblue;
+}
 .name-style{
     margin-left: 20%;
     padding-top: 10%;
